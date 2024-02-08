@@ -27,23 +27,29 @@ git clone https://github.com/ProgiRade/bytepit-ui.git
 git clone https://github.com/ProgiRade/bytepit-root.git
 ```
 
-3. **Navigate to the Project Directory**ž
+2. **Navigate to the Project Directory**
 
-Run ```cd bytepit-root/```
+  Run ```cd bytepit-root/```
 
-5. **Environment Setup**
-Create a .env file in the root directory.
-For the required environment variables, please contact [jakov.vinozganic@fer.hr](mailto:jakov.vinozganic@fer.hr)
+3. **Environment Setup**
+  
+  Create a .env file in the root directory.
 
-6. **Build and Run with Docker**
-Run ```docker-compose up --build```
+  For the required environment variables, please contact [jakov.vinozganic@fer.hr](mailto:jakov.vinozganic@fer.hr)
 
-7. **Start the Web UI**
-Position into bytepit-ui/
-Run ```npm run dev```
+5. **Build and Run with Docker**
 
-8. **Access the App**
-Open your web browser and go to [http://localhost:5173/](http://localhost:5173/) to enjoy the ByteBit app!
+  Run ```docker-compose up --build```
+
+6. **Start the Web UI**
+
+  Position into bytepit-ui/
+
+  Run ```npm run dev```
+
+7. **Access the App**
+
+  Open your web browser and go to [http://localhost:5173/](http://localhost:5173/) to enjoy the ByteBit app!
 
 ## 🤝 Contributing
 
