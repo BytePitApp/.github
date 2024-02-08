@@ -20,36 +20,36 @@ To dive into the ByteBit experience, you'll need to set up your environment. Her
 
 ### Installation
 
-1. **Clone the Repositories**
+#### 1. Clone the Repositories
 ```
 git clone https://github.com/ProgiRade/bytepit-api.git
 git clone https://github.com/ProgiRade/bytepit-ui.git
 git clone https://github.com/ProgiRade/bytepit-root.git
 ```
 
-2. **Navigate to the Project Directory**
+#### 2. Navigate to the Project Directory
 
-  Run ```cd bytepit-root/```
+Run ```cd bytepit-root/```
 
-3. **Environment Setup**
+#### 3. Environment Setup
   
-  Create a .env file in the root directory.
+Create a .env file in the root directory.
 
-  For the required environment variables, please contact [jakov.vinozganic@fer.hr](mailto:jakov.vinozganic@fer.hr)
+For the required environment variables, please contact [jakov.vinozganic@fer.hr](mailto:jakov.vinozganic@fer.hr)
 
-5. **Build and Run with Docker**
+#### 5. Build and Run with Docker
 
-  Run ```docker-compose up --build```
+Run ```docker-compose up --build```
 
-6. **Start the Web UI**
+#### 6. Start the Web UI
 
-  Position into bytepit-ui/
+Position into bytepit-ui/
 
-  Run ```npm run dev```
+Run ```npm run dev```
 
-7. **Access the App**
+#### 7. Access the App
 
-  Open your web browser and go to [http://localhost:5173/](http://localhost:5173/) to enjoy the ByteBit app!
+Open your web browser and go to [http://localhost:5173/](http://localhost:5173/) to enjoy the ByteBit app!
 
 ## 🤝 Contributing
 
