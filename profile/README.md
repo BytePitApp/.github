@@ -27,7 +27,8 @@ git clone https://github.com/ProgiRade/bytepit-ui.git
 git clone https://github.com/ProgiRade/bytepit-root.git
 ```
 
-3. **Navigate to the Project Directory**
+3. **Navigate to the Project Directory**ž
+
 Run ```cd bytepit-root/```
 
 5. **Environment Setup**
