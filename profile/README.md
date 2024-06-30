@@ -17,6 +17,11 @@ To dive into the ByteBit experience, you'll need to set up your environment. Her
 **Prerequisites**  
 Ensure you have both npm and Docker installed on your PC.
 
+## 📸 Screenshots
+![BytePit - Landing Page](https://github.com/BytePitApp/.github/assets/95239040/8be7a3b2-b369-4127-b00d-3e6c79ba7044)
+![BytePit - Contestant solving a problem on a competition](https://github.com/BytePitApp/.github/assets/95239040/3e8e8984-896a-4cf8-b028-f8ff9e1f0d69)
+![BytePit - Competition Organiser Dashboard](https://github.com/BytePitApp/.github/assets/95239040/53fb679a-ce09-4e37-b93b-d3a7a6feb132)
+
 ## ⬇️ Installation
 
 **1️⃣ Clone the Repositories**  
